@@ -11,7 +11,9 @@
 
 </div>
 
-<p>
+---
+
+<div align=center>
    <a href="https://www.linkedin.com/in/habiba-ayman-a19227280/">
 	<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
    </a>
@@ -23,4 +25,4 @@
    <a href="https://discord.com/users/habibayman_">
 	<img width="48" height="48" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/>
    </a>
-</p>
+</div>
